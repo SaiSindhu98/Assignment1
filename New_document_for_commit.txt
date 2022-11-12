@@ -1,1 +1,1 @@
-Text file to commit with new changes in local repository
+Text file to commit with new changes in local repository.
